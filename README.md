@@ -6,3 +6,4 @@
 ### 以下是程序截图:
 ![image](https://github.com/lf624/NetworkTest/blob/master/Screenshot_2019-12-13-09-01-43-321_com.example.ne.jpg)
 ![image](https://github.com/lf624/NetworkTest/blob/master/Screenshot_2019-12-13-09-01-59-227_com.example.ne.jpg)
+![image](https://github.com/lf624/NetworkTest/blob/master/Screenshot_2019-12-13-09-02-21-006_com.example.ne.jpg)
