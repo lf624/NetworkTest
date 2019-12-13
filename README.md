@@ -5,3 +5,4 @@
 - 还有在使用多线程时有时会有不同步的问题,导致网络请求还没结束,布局先加载了出来,导致数据没传进去.
 ### 以下是程序截图:
 ![image](https://github.com/lf624/NetworkTest/blob/master/Screenshot_2019-12-13-09-01-43-321_com.example.ne.jpg)
+![image](https://github.com/lf624/NetworkTest/blob/master/Screenshot_2019-12-13-09-01-59-227_com.example.ne.jpg)
